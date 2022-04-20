@@ -6,5 +6,5 @@
   
   - Estudante de Analise e Desenvolvimento de Sistema.
   
-  - Todos os meus Projs estarão no meu portifolio.
+  - Todos os meus Projetos estarão no meu portifolio.
   
