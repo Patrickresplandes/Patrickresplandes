@@ -24,7 +24,7 @@
   
   <p align="left">     
     <img width="530em" src="https://github-readme-stats.vercel.app/api?username=patrickresplandes&show_icons=true&theme=radical" alt="Patrickresplandes stats"/>
-    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickresplandes&layout=compact" alt="Patrickresplandes most language"/>
+   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickresplandes&layout=compact&theme=radical" alt="Patrickresplandes's most languages"/>
   </p>
     
   ## &nbsp;Social Links
