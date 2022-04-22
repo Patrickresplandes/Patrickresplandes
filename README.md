@@ -24,10 +24,14 @@
   
   <p align="left">     
     <img width="530em" src="https://github-readme-stats.vercel.app/api?username=patrickresplandes&show_icons=true&theme=radical" alt="Patrickresplandes stats"/>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickresplandes&layout=compact" alt="Patrickresplandes most language"/>
+  </p>
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickresplandes&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  ## &nbsp;Social Links
     
-    ## &nbsp;Social Links
+  [![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-resplandes-736524193)
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=h7xh1aw4f26y&utm_content=pyog8r)
+  
     
-    [![Linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
   
