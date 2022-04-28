@@ -6,7 +6,7 @@
   
   - 🎓 Estudante de Analise e Desenvolvimento de Sistema. 
   
-  - 👨‍ 💻Todos os meus projetos estão disponiveis em [✅ Portifólio em construção]()
+  - 👨‍ 💻Todos os meus projetos estão disponiveis em [✅ Repositorio]()
   
   <br><br>
   
