@@ -2,7 +2,7 @@
   
   - 🔥 Desenvolvedor FullStack Jr 
   
-  - 💻 Trabalho como Anlista de Sistema Jr. na Unmied Imperatriz 
+  - 💻 Trabalho como Analista de Sistema Jr. na Unmied Imperatriz 
   
   - 🎓 Estudante de Analise e Desenvolvimento de Sistema. 
   
