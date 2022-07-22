@@ -1,4 +1,4 @@
-<h1> Salve, Salve! Eu me  chamo Patrick Resplandes!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <h1>
+<h1> Salve, me  chamo Patrick Resplandes!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <h1>
   
   - 🔥 Desenvolvedor FullStack Jr 
   
