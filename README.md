@@ -1,12 +1,12 @@
 <h1> Salve, me  chamo Patrick Resplandes!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <h1>
   
-  - 🔥 Desenvolvedor FullStack Jr 
+  - 🔥 Desenvolvedor Front-End
   
   - 💻 Trabalho como Analista de Sistema Jr. na Unimed Imperatriz 
   
   - 🎓 Estudante de Analise e Desenvolvimento de Sistema. 
   
-  - 👨‍ 💻Todos os meus projetos estão disponiveis em ✅ Repositorio
+  - 👨‍ 💻Todos os meus projetos estão disponiveis em ✅ <link>https://github.com/Patrickresplandes?tab=repositories<link>
    
   <br><br>
   
