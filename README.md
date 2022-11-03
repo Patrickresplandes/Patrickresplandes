@@ -6,7 +6,7 @@
   
   - 🎓 Estudante de Analise e Desenvolvimento de Sistema. 
   
-  - 👨‍ 💻Todos os meus projetos estão disponiveis em ✅ <link>https://github.com/Patrickresplandes?tab=repositories<link>
+  - 👨‍ 💻Todos os meus projetos estão disponiveis em ✅ <link to="https://github.com/Patrickresplandes?tab=repositories">Repositorio<link
    
   <br><br>
   
