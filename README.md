@@ -6,8 +6,6 @@
   
   - 🎓 Estudante de Analise e Desenvolvimento de Sistema. 
   
-  - Estudando Typescript
-  
   - 👨‍ 💻Todos os meus projetos estão disponiveis em ✅ <a href="https://github.com/Patrickresplandes?tab=repositories">Repositorio<a/>
    
   <br><br>
