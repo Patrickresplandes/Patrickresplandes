@@ -2,9 +2,7 @@
   
   - 🔥 Desenvolvedor Front-End
   
-  - 💻 Trabalho como Analista de Sistema Jr. na Unimed Imperatriz 
-  
-  - 🎓 Estudante de Analise e Desenvolvimento de Sistema. 
+  - 💻 Programador  
   
   - 👨‍ 💻Todos os meus projetos estão disponiveis em ✅ <a href="https://github.com/Patrickresplandes?tab=repositories">Repositorio<a/>
    
