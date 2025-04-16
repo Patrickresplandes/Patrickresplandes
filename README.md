@@ -54,11 +54,4 @@ Todos os meus projetos estão disponíveis no meu 👉 [repositório público](h
   </a>
 </p>
 
----
-
-<p align="center">
-  Feito com 💙 por <strong>Patrick Resplandes</strong>
-</p>
-
-    
   
